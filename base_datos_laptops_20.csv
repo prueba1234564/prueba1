@@ -1,0 +1,21 @@
+Marca,Modelo,Procesador,RAM,Almacenamiento,Pantalla,Precio
+Dell,XPS 13,Intel i7,16GB,512GB SSD,"13.3"" FHD",1200 USD
+HP,Pavilion 15,AMD Ryzen 5,8GB,1TB HDD,"15.6"" HD",800 USD
+Lenovo,ThinkPad X1,Intel i5,16GB,256GB SSD,"14"" FHD",1100 USD
+Asus,ZenBook 14,AMD Ryzen 7,16GB,512GB SSD,"14"" OLED",1300 USD
+Acer,Aspire 5,Intel i3,8GB,1TB HDD,"15.6"" FHD",700 USD
+Apple,MacBook Air,Apple M2,8GB,256GB SSD,"13.6"" Retina",1000 USD
+MSI,Stealth 15,Intel i9,32GB,1TB SSD,"15.6"" QHD",2000 USD
+Samsung,Galaxy Book 3,Intel i7,16GB,512GB SSD,"14"" FHD",1400 USD
+Razer,Blade 14,AMD Ryzen 9,32GB,1TB SSD,"14"" QHD",2200 USD
+Gigabyte,Aero 16,Intel i9,32GB,2TB SSD,"16"" 4K",2500 USD
+Dell,Inspiron 15,Intel i5,8GB,512GB SSD,"15.6"" FHD",900 USD
+HP,Spectre x360,Intel i7,16GB,512GB SSD,"14"" OLED",1500 USD
+Lenovo,Yoga 9i,Intel i7,16GB,1TB SSD,"14"" 2.8K",1400 USD
+Asus,ROG Zephyrus G14,AMD Ryzen 9,32GB,1TB SSD,"15.6"" QHD",2100 USD
+Acer,Swift 3,Intel i5,8GB,512GB SSD,"13.3"" FHD",850 USD
+Apple,MacBook Pro,Apple M3,16GB,512GB SSD,"16"" Retina",2300 USD
+MSI,Katana GF66,Intel i7,16GB,512GB SSD,"15.6"" FHD",1200 USD
+Samsung,Galaxy Book Pro,Intel i5,8GB,512GB SSD,"13.3"" FHD",1100 USD
+Razer,Blade 15,AMD Ryzen 7,16GB,1TB SSD,"15.6"" OLED",1700 USD
+Gigabyte,Aorus 17,Intel i9,32GB,2TB SSD,"17.3"" 4K",2600 USD
